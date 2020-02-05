@@ -3,3 +3,4 @@ este es un bloc de notas para ingresar citas favoritas
 "El conocimiento es poder"
 
 "Las cicatrices nos muestran que el pasado fue real"
+"Solo paso por aquí"
