@@ -1,4 +1,4 @@
-José me cierra mi creatividad y me está gustando el jugar con ustedes :D
+José me cierra mi creatividad y me está gustando <3
 
 
 Saludin
