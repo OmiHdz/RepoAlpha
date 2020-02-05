@@ -3,6 +3,14 @@ este es un bloc de notas para ingresar citas favoritas
 "El conocimiento es poder"
 
 "Las cicatrices nos muestran que el pasado fue real"
+<<<<<<< HEAD
+
+"No importa que tan roto esté tu corazón, el mundo no se detiene ante tu pena"
+=======
 "Solo paso por aquí"
+<<<<<<< HEAD
 
 "Real eyes realize real lies"
+=======
+>>>>>>> 310fde1803160a54d681297c6ff7bd60aca45b5e
+>>>>>>> f57612bd1623e48429a720f8d6eb93520766b3f0
