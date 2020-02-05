@@ -3,22 +3,23 @@ Este es un bloc de notas para ingresar citas favoritas
 "El conocimiento es poder"
 
 "Las cicatrices nos muestran que el pasado fue real"
-<<<<<<< HEAD
+
 
 "Del cielo cayó un pañuelo, y ya"
 
 "Doña Gaby"
-=======
-<<<<<<< HEAD
 
 "No importa que tan roto esté tu corazón, el mundo no se detiene ante tu pena"
-=======
+
 "Solo paso por aquí"
-<<<<<<< HEAD
+
 
 "Real eyes realize real lies"
+
 
 "Baila, baila esta cumbia un ritmo, ritmo sin igual" -Kumbia Kings
 =======
 >>>>>>> 310fde1803160a54d681297c6ff7bd60aca45b5e
 >>>>>>> f57612bd1623e48429a720f8d6eb93520766b3f0
+=======
+>>>>>>> 6b94fcde3cdd20d0af88cc6e8d9f80aff624bea0
